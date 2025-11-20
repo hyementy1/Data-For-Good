@@ -33,9 +33,11 @@ https://docs.google.com/spreadsheets/d/1m5EwVC1I1lSRr3MOyFgAi54RGY6UxpqQoN_dWHXx
 
 - **Name** (String) - name of the the dinosaurs
 
-- **Geoglogical Period** (inStringt) - the geoglogical periods of the earth
+- **Geoglogical Period** (String) - the geoglogical periods of the earth
 
 - **Intelligence** (String) - the intelligence of different dinosaurs
+
+- **Weight** (int) - weight of the the dinosaurs
 
 ## UML Diagram 
 
